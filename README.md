@@ -2,7 +2,7 @@
 
 ## What's it about?
 
-
+A webpage built purely in HTML showcasing HTML Text fundamentals such as Headings, Paragraphs and Lists.
 
 ## First look 
 
