@@ -7,7 +7,6 @@ A webpage built purely in HTML showcasing HTML Text fundamentals such as Heading
 ## 🧀 First look 
 
 ![Simple recipe 1](./img/screen_1.png)
-![Simple recipe 2](./img/screen_2.png)
 
 ## 🧀 Technologies
 
